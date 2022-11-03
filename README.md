@@ -9,16 +9,17 @@ to my **notion** notes of all years.
 to my **shared google drive** with all the material of the lessons and various exercize.
 
 
-[Libri per tutti gli anni](http://t.me/neeggafiles) (📢 - TG)
+### Telegram useful link
+* [Libri per tutti gli anni](http://t.me/neeggafiles) (📢 - TG)
 
-[Office per Studenti ](https://www.microsoft.com/it-it/education/products/office)
+* [Office per Studenti ](https://www.microsoft.com/it-it/education/products/office)
 (Microsoft.com)
 
-[Software Gratuiti](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/accordi-distribuzione-software/) (Unito.it)
+* [Software Gratuiti](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/accordi-distribuzione-software/) (Unito.it)
 
-[GitHub Student Pack](https://education.github.com/pack) (GitHub.com)
+* [GitHub Student Pack](https://education.github.com/pack) (GitHub.com)
 
-[Raccolta di benefici per studenti](https://telegra.ph/Lista-Benefici-Accessibili-a-Studenti-Universitari-09-03)
+* [Raccolta di benefici per studenti](https://telegra.ph/Lista-Benefici-Accessibili-a-Studenti-Universitari-09-03)
 
 
 
