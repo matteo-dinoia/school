@@ -22,9 +22,9 @@ to my **shared google drive** with all the material of the lessons and various e
 * [Raccolta di benefici per studenti](https://telegra.ph/Lista-Benefici-Accessibili-a-Studenti-Universitari-09-03)
 
 
+## Git repositories
+### Second Year First Semester
 
-## Second Year First Semester
-### Git repositories
 * [Link](https://github.com/matteo-dinoia/EsLFT) 
 to github repositories for **LFT (Linguaggi formali e traduttori)**
 * [Link](https://github.com/matteo-dinoia/EsSO) 
@@ -33,12 +33,10 @@ to github repositories for **SO (Operating System)**
 to github repositories for **EPS (Probabiility and Statistics elements)**
 
 
-## First Year Second Semester
-### Git repositories
+### First Year Second Semester
 * [Link](https://github.com/matteo-dinoia/uni-architecture-1) 
 to github repositories for **Architecture 1 (RISC V)**
 
-## First Year First Semester
-### Git repositories
+### First Year First Semester
 * [Link](https://github.com/matteo-dinoia/uni-programming-1) 
 to github repositories for **Programming I**
