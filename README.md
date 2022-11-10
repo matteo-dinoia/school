@@ -37,5 +37,5 @@ to github repositories for **EPS (Probabiility and Statistics elements)**
 
 
 ## First Year First Semester
-* [Link](https://github.com/matteo-dinoia/uni-programming-) 
+* [Link](https://github.com/matteo-dinoia/uni-programming-1) 
 to github repositories for **Programming I**
