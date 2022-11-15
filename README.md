@@ -27,7 +27,7 @@ to my **shared google drive** with all the material of the lessons and various e
 
 * [Link](https://github.com/matteo-dinoia/EsLFT) 
 to github repositories for **LFT (Linguaggi formali e traduttori)**
-* [Link](https://github.com/matteo-dinoia/EsSO) 
+* [Link](https://github.com/matteo-dinoia/uni-operating-system)
 to github repositories for **SO (Operating System)**
 * [Link](https://github.com/matteo-dinoia/EsEPS) 
 to github repositories for **EPS (Probabiility and Statistics elements)**
