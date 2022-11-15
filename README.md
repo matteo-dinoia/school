@@ -36,7 +36,6 @@ to github repositories for **EPS (Probabiility and Statistics elements)**
 ### First Year Second Semester
 * [Link](https://github.com/matteo-dinoia/uni-architecture-1) 
 to github repositories for **Architecture I (RISC V)**
-
 * [Link](https://github.com/matteo-dinoia/uni-programming-2) 
 to github repositories for **Programming II**
 
