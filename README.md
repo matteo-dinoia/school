@@ -25,7 +25,7 @@ to my **shared google drive** with all the material of the lessons and various e
 ## Git repositories
 ### Second Year First Semester
 
-* [Link](https://github.com/matteo-dinoia/EsLFT) 
+* [Link](https://github.com/matteo-dinoia/uni-statistics) 
 to github repositories for **LFT (Linguaggi formali e traduttori)**
 * [Link](https://github.com/matteo-dinoia/uni-operating-system)
 to github repositories for **SO (Operating System)**
